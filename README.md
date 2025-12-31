@@ -2,7 +2,7 @@
 A Random Guy From Malaysia That Loves Linux
 
 ## Hiring:
-Yes, Only for music.
+No.
 
 ## Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Heavy-Society-8976) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Izumi-Sonoka) 
